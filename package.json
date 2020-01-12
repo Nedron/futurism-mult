@@ -19,7 +19,7 @@
     "mongoose-validator": "~0.2.2",
     "validator": "~1.5.1",
     "socket.io": "~0.9.16",
-    "lodash": "~2.4.1",
+    "lodash": "~4.17.15",
     "randomstring": "~1.0.3",
     "redis": "~0.10.1",
     "request": "~2.34.0",

@@ -17,7 +17,7 @@
     "async": "~0.2.9",
     "mongoose": "~3.6.20",
     "mongoose-validator": "~0.2.2",
-    "validator": "~1.5.1",
+    "validator": "~12.1.0",
     "socket.io": "~0.9.16",
     "lodash": "~2.4.1",
     "randomstring": "~1.0.3",
